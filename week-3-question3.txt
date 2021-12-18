@@ -1,0 +1,13 @@
+Windows:
+1)window is the main global object which holds all the properties of the browser window.
+2)It can also be treated as the root of the document object model.
+3)This can be accessed using Document in js.
+
+Screen: 
+1)Screen is a object which is under Document in js, where document is the parent object of the window.
+2)Screen object holds all the information regarding the screen of the browser such as length, breadth of the screen.
+
+Document: 
+1)Document is a object which is also under Windows object.
+2)All the information present in the screen can be manipulated using the document object. The
+3)DOM (Document Object Model) holds all the information, which is used to manipulate the information.
